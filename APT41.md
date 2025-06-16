@@ -1,6 +1,6 @@
 # Threat Intelligence Report: APT41
-Written: January 14, 2025
-Updated: May 28, 2025
+- Written: January 14, 2025
+- Updated: May 28, 2025
 
 ## Executive Summary
 
