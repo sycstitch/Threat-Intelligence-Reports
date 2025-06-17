@@ -106,3 +106,14 @@ Here's what you can do to stay safe from APT41:
 
 ## In a Nutshell (Conclusion)
 APT41 is a very dangerous and unpredictable hacking group because they do both government-backed spying and personal cybercrime. They are technically advanced and always find new ways to attack, even using everyday services like Google Calendar. It's crucial for everyone, especially businesses, to be alert for both their spying and their money-making attacks, and to keep up with their new tricks and tools.
+
+<br /><br />
+
+## References
+- MITRE ATT&CK: [Group G0096 (APT 41)](https://attack.mitre.org/groups/G0096/)
+- Madiant: [APT41, A Dual Espionage and Cyber Crime Operation (PDF)](https://services.google.com/fh/files/misc/apt41-a-dual-espionage-and-cyber-crime-operation.pdf)
+- Google Cloud Blog: [APT41 Dual Espionage and Cyber Crime Operation](https://cloud.google.com/blog/topics/threat-intelligence/apt41-dual-espionage-and-cyber-crime-operation)
+- Google Cloud Blog: [Mark Your Calendar: APT41 Innovative Tactics](https://cloud.google.com/blog/topics/threat-intelligence/apt41-innovative-tactics)
+- Resecurity: [APT41 Threat Intelligence Report and Malware Analysis](https://www.resecurity.com/blog/article/apt-41-threat-intelligence-report-and-malware-analysis)
+- The Hacker News: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html)
+- Google Cloud Blog: [APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust)
