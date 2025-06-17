@@ -7,7 +7,7 @@ This repository serves as a centralized collection for in-depth threat intellige
 ## Featured Report: [APT41 Threat Intelligence Report (Professional)](APT41.md)
 Currently featured is a detailed analysis of **APT41** (also known as Wicked Panda, BARIUM), a prominent threat group notable for its unique blend of state-sponsored cyber espionage and financially motivated cybercrime. This report covers APT41's dual mission, their innovative tactics (such as the use of Google Calendar for command-and-control), and their comprehensive toolset.
 
-**For a beginner-friendly explanation of APT41, see the [APT41 Explained: A Guide for Beginners](APT41_Beginner.md) version.**
+**For a beginner-friendly explanation of APT41, see the [APT41 Explained: A Guide for Beginners](APT41-Beginner.md) version.**
 
 <br /><br />
 
